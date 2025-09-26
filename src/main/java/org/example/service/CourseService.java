@@ -10,6 +10,7 @@ import java.util.Optional;
 @Service
 public class CourseService {
 
+    //RDS DB
     private final List<Course> courses = new ArrayList<>();
 
     // Create a new course
